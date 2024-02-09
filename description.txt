@@ -1,0 +1,10 @@
+Data Description for House Price Prediction Dataset
+
+The dataset contains information about houses and their prices. Below is a description of each column:
+
+1. SquareFootage: The square footage of the house.
+2. Bedrooms: The number of bedrooms in the house.
+3. Bathrooms: The number of bathrooms in the house.
+4. Price: The price of the house in USD.
+
+These features are used to predict the price of the house based on its square footage, number of bedrooms, and number of bathrooms.
